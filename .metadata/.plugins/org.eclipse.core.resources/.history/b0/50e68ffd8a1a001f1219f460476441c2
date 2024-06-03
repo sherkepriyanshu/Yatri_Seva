@@ -1,0 +1,5 @@
+package org.jsp.bookmyticket.dao;
+
+public class BusDao {
+
+}

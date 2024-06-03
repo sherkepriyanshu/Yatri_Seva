@@ -1,0 +1,5 @@
+package org.jsp.bookmyticket.model;
+
+public class Bus {
+
+}
