@@ -1,5 +1,0 @@
-package org.jsp.bookmyticket.Exception;
-
-public class BusNotFoundException {
-
-}

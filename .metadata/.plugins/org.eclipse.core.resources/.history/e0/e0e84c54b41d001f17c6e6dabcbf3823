@@ -1,5 +1,0 @@
-package org.jsp.mailsendingapi.controller;
-
-public class MailSendingController {
-
-}

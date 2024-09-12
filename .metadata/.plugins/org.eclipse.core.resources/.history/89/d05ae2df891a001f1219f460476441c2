@@ -1,5 +1,0 @@
-package org.jsp.bookmyticket.dto;
-
-public class BusRequest {
-
-}
